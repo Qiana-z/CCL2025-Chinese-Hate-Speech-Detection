@@ -1,0 +1,1 @@
+# CCL2025-Chinese-Hate-Speech-Detection
