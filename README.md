@@ -21,9 +21,14 @@
 
 **评价指标为Accuracy和macro-F1，其中macro-F1为主评价指标。** 具体计算方式与机器学习库sklearn一致。具体的计算公式如下：
 
-Accuracy：$Acc.=\frac{\text{判断正确的样本数}}{\text{样本总数}}$
+Accuracy：
+$Acc.=\frac{\text{判断正确的样本数}}{\text{样本总数}}$
 
-macro-F1：首先计算仇恨和非仇恨样本的${F_{1}}_{i}=2\times\frac{P_{i}\times R_{i}}{P_{i}+R_{i}}$，之后对两种类别的F1直接求平均：$macro-F1=\frac{{F_{1}}_{\text{仇恨}}+{F_{1}}_{\text{非仇恨}}}{2}$。
+macro-F1：首先计算仇恨和非仇恨样本的
+${F_{1}}_{i}=2\times\frac{P_{i}\times R_{i}}{P_{i}+R_{i}}$
+
+之后对两种类别的F1直接求平均： 
+$macro-F1=\frac{{F_{1}}_{\text{仇恨}}+{F_{1}}_{\text{非仇恨}}}{2}$ 
 
 ## 任务二：片段级中文仇恨言论四元组抽取
 
@@ -53,11 +58,14 @@ macro-F1：首先计算仇恨和非仇恨样本的${F_{1}}_{i}=2\times\frac{P_{i
 
 **评价指标为Precision，Recall和F1，其中F1为主评价指标。** 具体计算方式与机器学习库sklearn一致。具体的计算公式如下：
 
-Precision：$P=\frac{\text{正确抽取的四元组数}}{\text{系统抽取的总四元组数}}$
+Precision: 
+$P=\frac{\text{正确抽取的四元组数}}{\text{系统抽取的总四元组数}}$
 
-Recall：$R=\frac{\text{正确抽取的四元组数}}{\text{数据集中真实四元组总数}}$
+Recall:
+$R=\frac{\text{正确抽取的四元组数}}{\text{数据集中真实四元组总数}}$
 
-F1-score：${F1}=2\times\frac{P\times R}{P+R}$
+F1-score:
+${F1}=2\times\frac{P\times R}{P+R}$
 
 **说明：在任务二指标计算过程中，当且仅当一个四元组中四个元素与标签完全一致时，才视为预测正确。**
 
