@@ -25,10 +25,11 @@ Accuracy：
 $Acc.=\frac{\text{判断正确的样本数}}{\text{样本总数}}$
 
 macro-F1：首先计算仇恨和非仇恨样本的
-${F_{1}}_{i}=2\times\frac{P_{i}\times R_{i}}{P_{i}+R_{i}}$
+$F_{1_i}=2 \times \frac{P_i \times R_i}{P_i+R_i}$,
 
 之后对两种类别的F1直接求平均： 
-$macro-F1=\frac{{F_{1}}_{\text{仇恨}}+{F_{1}}_{\text{非仇恨}}}{2}$ 
+$macro-F1 = \frac{F_{1_{\text{仇恨}}} + F_{1_{\text{非仇恨}}}}{2}$
+
 
 ## 任务二：片段级中文仇恨言论四元组抽取
 
