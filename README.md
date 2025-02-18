@@ -86,7 +86,7 @@ ${Similarity}=\frac{M\times 2}{len_{pred}+len_{gold}}$
 
 ## 官方答疑群
 
-<img src="https://github.com/DUTIR-Emotion-Group/CCL2025-Chinese-Hate-Speech-Detection/blob/main/images/group%20.jpg" width="300">
+<img src="https://github.com/DUTIR-Emotion-Group/CCL2025-Chinese-Hate-Speech-Detection/blob/main/images/group.jpg" width="300">
 
 ## 组织机构
 
