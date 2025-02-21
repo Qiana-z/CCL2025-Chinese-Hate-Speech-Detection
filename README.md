@@ -1,7 +1,7 @@
 # CCL2025-Task10: 细粒度中文仇恨言论识别
 
 
-**此仓库为 CCL2025-Eval Task5: 细粒度中文仇恨言论识别的官方仓库。欢迎个人和团队报名参赛！有意参赛的人员请填写在线报名表：[报名表](https://docs.qq.com/form/page/DSm1YWnZhUGVnaUtk)。评测结果将通过阿里天池平台提交，[链接](https://tianchi.aliyun.com/competition/entrance/532298)**。
+**此仓库为 CCL2025-Eval Task5: 细粒度中文仇恨言论识别的官方仓库。欢迎个人和团队报名参赛！有意参赛的人员请填写在线报名表：[报名表](https://docs.qq.com/form/page/DSm1YWnZhUGVnaUtk)。评测结果将通过阿里天池平台提交，[链接](https://tianchi.aliyun.com/competition/entrance/532298)**
 
 ## 任务背景
 
