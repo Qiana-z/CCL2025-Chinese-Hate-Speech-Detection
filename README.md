@@ -3,7 +3,7 @@
 
 **此仓库为 CCL2025-Eval Task5: 细粒度中文仇恨言论识别的官方仓库。欢迎个人和团队报名参赛！有意参赛的人员请填写在线报名表：[报名表](https://docs.qq.com/form/page/DSm1YWnZhUGVnaUtk)。评测结果将通过阿里天池平台提交，[链接](https://tianchi.aliyun.com/competition/entrance/532298)**
 
-**论文链接：[Github 仓库](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)**
+**论文链接：[https://arxiv.org/abs/2501.15451](https://arxiv.org/abs/2501.15451)**
 
 ## 任务背景
 
